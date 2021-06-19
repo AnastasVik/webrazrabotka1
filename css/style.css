@@ -1,1 +1,11 @@
-@import "Obnuleniestiles.css";
+@import "normalize.css";
+
+.block{
+    color: green;
+}
+body div:hover:first-child{
+    color: greenyellow;
+}
+body div:active:first-child{
+    color: #227299;
+}
