@@ -11,3 +11,4 @@
 	sg = status
 	df = diff
 	pom = push origin master
+        hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
