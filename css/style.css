@@ -1,11 +1,6 @@
 @import "normalize.css";
 
-.block{
-    color: green;
-}
-body div:hover:first-child{
-    color: greenyellow;
-}
-body div:active:first-child{
-    color: #227299;
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
 }
